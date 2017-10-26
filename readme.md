@@ -4,7 +4,7 @@ This is a simple express js app to demonstrate, how to dockerize an express app.
 
 ### Prerequisites
 
-(Docker)[http://docker.com/] should be installed on your machine.
+[http://docker.com/](Docker) should be installed on your machine.
 
 ### Installing
 
