@@ -10,5 +10,5 @@ Docker should be installed on your machine.
 
 1. Download or Clone this repo to your local machine.
 2. Navigate to the app folder using command line. 
-3. run `docker-compose build`.
-4. Once done, run `docker-compose up`.
+3. Run `docker-compose build`.
+4. Once done, Run `docker-compose up`.
