@@ -1,0 +1,10 @@
+website:
+  build: .
+  volumes:
+  - .:/app
+  - /app/node_modules
+
+  ports:
+  - "3001:3001"
+  command: nodemon /app/app.js
+#
